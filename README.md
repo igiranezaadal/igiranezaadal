@@ -6,10 +6,10 @@
   
 
 
-  <a href="https://www.facebook.com/mathewkenyi07">
+  <a href="https://web.facebook.com/people/Igiraneza-Ad%C3%A4l/100021092326836/?_rdc=1&_rdr#">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" height="40" alt="Facebook"/>
   </a>
-  <a href="https://instagram.com/mathewkenyi07?igsh=eXNicGdIMW9nOGw3">
+  <a href="https://www.instagram.com/igiranezaadal/">
     <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" alt="Instagram"/>
   </a>
   <a href="https://www.linkedin.com/in/mathew-kenyi-a60496345/">
@@ -75,11 +75,30 @@ I’m passionate about learning new tech, and sharing my journey with the dev co
   <img src="https://skillicons.dev/icons?i=react,nodejs" />
 </p>
 
+<hr>
+
+### 👔 Dev skills
+
+✅ Creativity and Adaptable in any environment
+
+✅ Communication skills
+
+✅ Problem-solving(Even complex one)
+
+✅ Teamwork
+
+✅ Reliable
+
+✅ Time management
+
+<hr>
+
 ## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mathewkenyi07&show_icons=true&theme=tokyonight" alt="Mathew's GitHub stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathewkenyi07&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
+  <a href="http://www.github.com/igiranezaadal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=igiranezaadal&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </p>
 
 ---
