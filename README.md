@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Adal Igiraneza
 
 **`Software Engieer and Tech Master`**
@@ -24,56 +22,14 @@ I'm frontend developer and content creator building my version of the digital wo
 All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with codes
 I’m passionate about learning new tech, and sharing my journey with the dev community.  
 
-## 🧑‍💻 About Me  
-- 🌱 Currently leveling up in **Javascript, HTML, CSS, C and TailwindCss**   
-- 🎯 Goal: Craft dope software solutions that solve real problems we face in our communities make life easier  
-- ⚡ Fun fact: I debug with music on full blast 🎶  
-
+## 🧑‍💻 About Me
+- 🌱 Currently leveling up in **Javascript, HTML, CSS, TailwindCss, Git(github), Web Design**   
+- 🎯 Goal: Craft dope software solutions that solve real problems we face in our communities make life easier
+- 🎂BirthDay: 10/03
+- 💬 Ask me about Football,  web development, animals(wild).
+- ⚡ Fun fact: The best way to predict the future is to invent it.
 ---
 
-## 🔥 Projects  
-
- 
-
-<!-- <table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Medical Link Africa</h3>
-      <p align="center"><p>Here's the link to the site <a href="https://medicallinkafrica.netlify.app/" target="blank">www.medicalLinkAfrica.com</a>
-     </p>
-        Medical Link Africa is a healthcare-focused web platform designed to help users quickly locate medicines and connect with verified pharmacies. The project aims to reduce the risk of counterfeit medicines, improve access to healthcare information, and simplify medicine searches through multilingual voice and text support. Built as a real-world problem-solving solution, the platform focuses on accessibility, reliability, and improving healthcare access across African communities.
-.  
-        <br />
-        <br />
-        
- <img width="1024" height="1024" alt="logo" src="https://github.com/user-attachments/assets/ea07046c-a64a-4432-9697-615919e8c755" />
- MedicalLinkAfrica.org
-      </p> 
-    </td>
-    <td width="50%">
-      <h3 align="center">📅 Life Tracker App</h3>
-      <p align="center">
-        All-in-one app to track daily activities, assignments, and budget.  
-        <br />
-        <br />
-        <img src="" width="90%" alt="Life Tracker App"/>
-      </p>
-    </td>
-  </tr>
-</table> -->
-
----
-
-## 🛠 Tech Stack  
-
-<p align="center">
-  <p align="center">
-  <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" /><br>
-  <img src="https://skillicons.dev/icons?i=c,cpp,react,nodejs" /><br>
-</p>
-
-<hr>
 
 ### 👔 Dev skills
 
@@ -85,9 +41,25 @@ I’m passionate about learning new tech, and sharing my journey with the dev co
 
 ✅ Teamwork
 
-✅ Reliable
+✅ Reliable and consistent
 
 ✅ Time management
+
+<hr>
+
+## 🔥 Projects
+encryped
+<hr>
+ 
+
+## 🛠 Tech Stack  
+
+<p align="center">
+  <p align="center">
+  <p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" /><br>
+  <img src="https://skillicons.dev/icons?i=c,cpp,react,nodejs" /><br>
+</p>
 
 <hr>
 
@@ -119,8 +91,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
