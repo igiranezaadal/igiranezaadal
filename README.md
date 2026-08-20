@@ -47,9 +47,11 @@ I’m passionate about learning new tech, and sharing my journey with the dev co
 
 <hr>
 
+<!--
 ## 🔥 Projects
-encryped
+encryted
 <hr>
+-->
  
 
 ## 🛠 Tech Stack  
