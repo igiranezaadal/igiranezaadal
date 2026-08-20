@@ -66,8 +66,8 @@ encryped
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mathewkenyi07&show_icons=true&theme=tokyonight" alt="Mathew's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathewkenyi07&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=igiranezaadal&show_icons=true&theme=tokyonight" alt="Adal's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igiranezaadal&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
   <a href="http://www.github.com/igiranezaadal"><img src="https://github-readme-streak-stats.herokuapp.com/?user=igiranezaadal&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </p>
 
