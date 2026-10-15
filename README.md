@@ -11,7 +11,7 @@
     <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" alt="Instagram"/>
   </a>
   <a href="www.linkedin.com/in/igiraneza-rukamba-adal-128406405">
-    <img src="[www.linkedin.com/in/igiraneza-rukamba-adal-128406405](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg)" width="40" height="40" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn"/>
   </a>
 
 
