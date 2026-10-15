@@ -10,7 +10,7 @@
   <a href="https://www.instagram.com/igiranezaadal/">
     <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" alt="Instagram"/>
   </a>
-  <a href="https://www.linkedin.com/in/mathew-kenyi-a60496345/">
+  <a href="www.linkedin.com/in/igiraneza-rukamba-adal-128406405">
     <img src="www.linkedin.com/in/igiraneza-rukamba-adal-128406405" width="40" height="40" alt="LinkedIn"/>
   </a>
 
