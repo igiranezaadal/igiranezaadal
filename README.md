@@ -23,7 +23,7 @@ All coding projects are built from the ground up, from planning and designing al
 I’m passionate about learning new tech, and sharing my journey with the dev community.  
 
 ## 🧑‍💻 About Me
-- 🌱 Currently leveling up in **Javascript, HTML, CSS, TailwindCss, Git(github), Web Design**   
+- 🌱 Currently leveling up in **Javascript, HTML, CSS, TailwindCss, React, And BackEnd**   
 - 🎯 Goal: Craft dope software solutions that solve real problems we face in our communities make life easier
 - 🎂BirthDay: 10/03
 - 💬 Ask me about Football,  web development, animals(wild).
