@@ -63,6 +63,11 @@ encryted
   <img src="https://skillicons.dev/icons?i=c,cpp,react,nodejs" /><br>
 </p>
 
+</br>
+   <div align="center">  
+    <a href="https://www.codewars.com/users/EuJinnLucaShow"><img src="https://www.codewars.com/users/EuJinnLucaShow/badges/large">
+  </div>
+
 <hr>
 
 ## 📊 GitHub Stats  
