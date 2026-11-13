@@ -65,7 +65,7 @@ encryted
 
 </br>
    <div align="center">  
-    <a href="[Igiraneza Adal Codewars Account](https://www.codewars.com/users/primeAdal10)"><img src="https://www.codewars.com/users/primeAdal10/badges/large">
+    <a href="https://www.codewars.com/users/primeAdal10"><img src="https://www.codewars.com/users/primeAdal10/badges/large">
   </div>
 
 <hr>
