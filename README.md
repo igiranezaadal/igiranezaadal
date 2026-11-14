@@ -1,7 +1,9 @@
 # Adal Igiraneza
 
 **`Software Engieer and Tech Master`**
-  
+  [![LinkedIn](https://shields.io)](https://linkedin.com)
+[![Portfolio](https://shields.io)](https://your-portfolio-link.com)
+[![Email](https://shields.io)](mailto:your.email@example.com)
 
 
   <a href="https://web.facebook.com/people/Igiraneza-Ad%C3%A4l/100021092326836/?_rdc=1&_rdr#">
