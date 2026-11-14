@@ -31,19 +31,17 @@ I’m passionate about learning new tech, and sharing my journey with the dev co
 ---
 
 
-### 👔 Dev skills
+<details>
+<summary><h3>👔 Dev skills</h3></summary>
 
-✅ Creativity and Adaptable in any environment
+* ✅ Creativity and Adaptable in any environment
+* ✅ Communication skills
+* ✅ Problem-solving (Even complex one)
+* ✅ Teamwork
+* ✅ Reliable and consistent
+* ✅ Time management
 
-✅ Communication skills
-
-✅ Problem-solving(Even complex one)
-
-✅ Teamwork
-
-✅ Reliable and consistent
-
-✅ Time management
+</details>
 
 <hr>
 
