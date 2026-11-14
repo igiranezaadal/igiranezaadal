@@ -21,7 +21,7 @@
 
 
 # Hi there, I'm Igiraneza Rukamba Adal 👋
-### Software Developer | Problem Solver | Tech Enthusiast  
+<!-- ### Software Developer | Problem Solver | Tech Enthusiast  -->
 
 ## 🧑‍💻 About Me
 - 🌱 Currently leveling up in **Javascript, HTML, CSS, TailwindCss, React, And BackEnd**   
