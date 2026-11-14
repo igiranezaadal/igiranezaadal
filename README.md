@@ -18,9 +18,8 @@
 
 
 
-I'm frontend developer and content creator building my version of the digital world one step at a time, But also transitioning to Fullstack 
-All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with codes
-I’m passionate about learning new tech, and sharing my journey with the dev community.  
+# Hi there, I'm Igiraneza Rukamba Adal 👋
+### Software Developer | Problem Solver | Tech Enthusiast  
 
 ## 🧑‍💻 About Me
 - 🌱 Currently leveling up in **Javascript, HTML, CSS, TailwindCss, React, And BackEnd**   
