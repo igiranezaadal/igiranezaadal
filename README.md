@@ -1,9 +1,9 @@
 # Adal Igiraneza
 
 **`Software Engieer and Tech Master`**
-  [![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Portfolio](https://shields.io)](https://your-portfolio-link.com)
-[![Email](https://shields.io)](mailto:your.email@example.com)
+<!-- [![LinkedIn](https://shields.io)](https://linkedin.com) -->
+<!-- [![Portfolio](https://shields.io)](https://your-portfolio-link.com) -->
+<!-- [![Email](https://shields.io)](mailto:your.email@example.com) -->
 
 
   <a href="https://web.facebook.com/people/Igiraneza-Ad%C3%A4l/100021092326836/?_rdc=1&_rdr#">
@@ -35,12 +35,12 @@
 <details>
 <summary><h3>👔 Dev skills</h3></summary>
 
-* ✅ Creativity and Adaptable in any environment
-* ✅ Communication skills
-* ✅ Problem-solving (Even complex one)
-* ✅ Teamwork
-* ✅ Reliable and consistent
-* ✅ Time management
+- ✅ **Creativity & Adaptability:** Quick to adjust and thrive in any development environment.
+- ✅ **Problem-Solving:** Breaking down complex bugs and logic into clean, working solutions.
+- ✅ **Communication:** Explaining technical concepts clearly to teammates and non-technical peers.
+- ✅ **Teamwork:** Collaborating smoothly using Git, pull requests, and code reviews.
+- ✅ **Reliability & Consistency:** Delivering steady progress and clean, maintainable code.
+- ✅ **Time Management:** Prioritizing tasks effectively to meet project deadlines.
 
 </details>
 
